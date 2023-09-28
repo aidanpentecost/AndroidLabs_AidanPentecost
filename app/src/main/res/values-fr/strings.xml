@@ -5,6 +5,9 @@
     <string name="ButtonText">Cliquez Ici</string>
     <string name="GUIMessage">Ceci est mon GUI</string>
     <string name="CheckboxMessage">Regardez ici!</string>
-    <string name="Switch">Switch ouvert / fermé</string>
+    <string name="Switch">Switch ouvert/fermé</string>
     <string name="hint">Tappez ici</string>
+    <string name="toast_message">Ici est plus d\'information</string>
+    <string name="SnackbarOn">Le Switch est maintenant ouvert</string>
+    <string name="SnackbarOff">Le Switch est maintenent fermé</string>
 </resources>

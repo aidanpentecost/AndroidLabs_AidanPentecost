@@ -4,6 +4,9 @@
     <string name="ButtonText">Click Here</string>
     <string name="GUIMessage">Look at my GUI</string>
     <string name="CheckboxMessage">Check this out!</string>
-    <string name="Switch">Switch on / off</string>
+    <string name="Switch">Switch on/off</string>
     <string name="hint">Type here</string>
+    <string name="toast_message">Here is more information</string>
+    <string name="SnackbarOn">The Switch is now on</string>
+    <string name="SnackbarOff">The Switch is now off</string>
 </resources>
